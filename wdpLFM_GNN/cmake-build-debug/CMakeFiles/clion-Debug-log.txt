@@ -1,0 +1,6 @@
+/private/var/folders/bc/0sv4l9h92yb5pz7_7vm4gh900000gn/T/AppTranslocation/990BD673-C370-4C16-B1A3-BBD9209535FE/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/bc/0sv4l9h92yb5pz7_7vm4gh900000gn/T/AppTranslocation/990BD673-C370-4C16-B1A3-BBD9209535FE/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/kennethzhang/CLionProjects/wdpLFM_GNN -B /Users/kennethzhang/CLionProjects/wdpLFM_GNN/cmake-build-debug
+-- Caffe2: Found protobuf with new-style protobuf targets.
+-- Caffe2: Protobuf version 23.4.0
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/kennethzhang/CLionProjects/wdpLFM_GNN/cmake-build-debug
